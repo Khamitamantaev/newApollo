@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Khamitamantaev/newApollo/issues"
   },
-  "homepage": "https://github.com/Khamitamantaev/newApollo#readme"
+  "homepage": "https://github.com/Khamitamantaev/newApollo#readme",
+  "dependencies": {
+    "apollo-server": "^2.23.0"
+  }
 }
